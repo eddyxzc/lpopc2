@@ -1,0 +1,8 @@
+//
+// Created by eddy on 1/26/20.
+//
+
+#ifndef LPOPC2_LAUNCHPROBLEM_HPP
+#define LPOPC2_LAUNCHPROBLEM_HPP
+
+#endif //LPOPC2_LAUNCHPROBLEM_HPP
